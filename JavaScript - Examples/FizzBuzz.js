@@ -5,6 +5,8 @@
  * three with the word "fizz", and any number divisible by five with the word "buzz".
  * 
  * Output: 1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14, Fizz Buzz, 
+ * 
+ * https://codingbat.com/doc/practice/fizzbuzz-code.html
  */
 
 var outPut = [];
